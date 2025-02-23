@@ -1,3 +1,3 @@
 # Weather-data-analysis
 Exploratory Data Analysis of Weather Data
-Dataset Link ../input/python-project-on-weather-dataset/Weather Data.csv
+Dataset Link https://www.kaggle.com/code/esraameslamsayed/eda-for-weather-dataset-for-beginners
